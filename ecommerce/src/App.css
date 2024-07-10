@@ -1,0 +1,21 @@
+nav{
+  display: flex;
+  background-color: #21154B;
+  color: white;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 20px; 
+}
+
+h2{
+  font-size: 1.5rem;
+}
+
+.greeting{
+  font-size: 2rem;
+  padding: 10px;
+}
+
+.carrito{
+  font-size:1.5rem;
+}
